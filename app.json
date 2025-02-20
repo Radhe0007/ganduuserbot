@@ -1,12 +1,12 @@
 {
-    "name": "Zaid Userbot",
+    "name": "Radhe Userbot",
     "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
     "repository": "https://github.com/ITZ-ZAID/Zaid-Userbot",
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
-            "description": "fill with the telethon session string from https://replit.com/@Itz-zaid/Generator",
+            "description": "fill with the telethon session string from @STRING_SESSION_GENN_BOT",
             "required": true
         },
         "MONGO_URL": {
@@ -17,12 +17,12 @@
         "SUDO_USERS": {
             "description": "Fill there your I'd go to @Zaid2_Robot pm and type /id",
             "required": true,
-            "value": "1234567890 1234567890"
+            "value": "8093150680 7159158466"
         },
         "OWNER_ID": {
             "description": "Fill there your I'd go to @Zaid2_Robot pm and type /id",
             "required": true,
-            "value": "1234567890"
+            "value": "8093150680"
         },
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
