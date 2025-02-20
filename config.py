@@ -18,13 +18,13 @@ ALIVE_TEXT = getenv("ALIVE_TEXT")
 PM_LOGGER = getenv("PM_LOGGER")
 LOG_GROUP = getenv("LOG_GROUP")
 GIT_TOKEN = getenv("GIT_TOKEN") #personal access token
-REPO_URL = getenv("REPO_URL", "https://github.com/ITZ-ZAID/ZAID-USERBOT")
+REPO_URL = getenv("REPO_URL", "https://github.com/Radhe0007/ganduuserbot")
 BRANCH = getenv("BRANCH", "master") #don't change
  
 STRING_SESSION1 = getenv("STRING_SESSION1", "")
 STRING_SESSION2 = getenv("STRING_SESSION2", "")
 STRING_SESSION3 = getenv("STRING_SESSION3", "")
-STRING_SESSION4 = getenv("STRING_SESSION4", "")
+STRING_SESSION4 = getenv("STRING_SESSION4", "") 
 STRING_SESSION5 = getenv("STRING_SESSION5", "")
 STRING_SESSION6 = getenv("STRING_SESSION6", "")
 STRING_SESSION7 = getenv("STRING_SESSION7", "")
